@@ -10,8 +10,8 @@ with open("requirements.txt") as f:
 
 
 setup(
-    name='lotopy',
-    version='0.1.1',
+    name='LotoPy',
+    version='0.1.2',
     url='https://github.com/flaviorabelo/lotopy',
     author='Flavio Rabelo',
     author_email='flaviorab@gmail.com',
